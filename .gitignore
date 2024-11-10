@@ -1,0 +1,9 @@
+
+*.exe
+*.elf
+a.cpp
+test.c
+test2.c
+z.mk
+# this is a comment in .gitignore
+
